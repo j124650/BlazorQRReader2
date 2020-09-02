@@ -20,7 +20,7 @@ jobs:
 
         # Generate the website
         - name: Publish
-          run: dotnet publish BlazorQRReader2.sln --configuration Release
+          run: dotnet publish SuperBin/BlazorQRReader2.proj --configuration Release
 
         # Publish the website
         - name: GitHub Pages action

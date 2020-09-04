@@ -65,7 +65,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-R3fIg8R4dZnZwZk8lQLOFyefcOP7FyzydZXKx2mqNVc=",
+      "hash": "sha256-o9omquFSStmQBjeJpKhstjsPcfb1rQzhw7BbJSs6h8E=",
       "url": "index.html"
     },
     {
@@ -213,5 +213,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "RLtIoMuT"
+  "version": "VcfCzDmc"
 };

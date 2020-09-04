@@ -69,7 +69,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-zqyslCykG4G0AVvyFjmizJTXReSecg3x2o5Xwdu3Zko=",
+      "hash": "sha256-YD3iV57znOVNq10AdbZokTeNXFLlKTi+nfzMlQbmIkw=",
       "url": "manifest.json"
     },
     {
@@ -213,5 +213,5 @@
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "RLtIoMuT"
+  "version": "4bGcug4f"
 };
